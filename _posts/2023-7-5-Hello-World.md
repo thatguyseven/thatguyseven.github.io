@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World!
 ---
 
-## Hello world!
-Welcome to my first blog. In this blog, I will be detailing my experiences in the OSRE Summer 2023 Cohort.
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Welcome to my first blog!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+In this blog, I will be detailing my experiences in the OSRE Summer 2023 Cohort. I look forward to learning more during these next few weeks. 
