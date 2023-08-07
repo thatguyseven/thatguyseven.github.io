@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm still alive...
+title: Goals Checkin
 ---
 Sorry for the late update. I know I said I was going to update this every 3 days or so, but it slipped my mind to do it as of late. Right now, I am contributing to the p5.js project by going over the documentation and proofreading for errors. I looked over their contributor docs and made a corrected a few minor typos. I also helped open an issue discussing a clarification for the workflow for correcting the documentation by helping draft a discussion our group opened to the community. 
 
